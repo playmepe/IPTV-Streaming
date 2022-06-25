@@ -1,30 +1,30 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml"
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/TVDigital_HD.png" group-title="STREAMING" tvg-id="001" tvg-name="001-Media-Informasi-HD", 001. Media Informasi HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/TVDigital_HD.png" group-title="STREAMING" tvg-id="001" tvg-name="001-Media-Informasi-HD", Media Informasi HD
 http://192.168.255.250/1.ts
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/TVDigital_HD.png" group-title="VID ON-DEMAND" tvg-id="002" tvg-name="002-Siaran-Acak-HD", 002. Siaran Acak HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/TVDigital_HD.png" group-title="VID ON-DEMAND" tvg-id="002" tvg-name="002-Siaran-Acak-HD", Siaran Acak HD
 http://192.168.255.250/2.ts
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_abcaustralia.png" group-title="" tvg-id="003" tvg-name="003-ABC-AUSTRALIA", 003. ABC AUSTRALIA
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_abcaustralia.png" group-title="" tvg-id="003" tvg-name="003-ABC-AUSTRALIA", ABC AUSTRALIA
 rtp://@239.1.1.33:8172
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_afn.png" group-title="LIFESTYLE" tvg-id="004" tvg-name="004-AFN", 004. AFN
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_afn.png" group-title="LIFESTYLE" tvg-id="004" tvg-name="004-AFN", AFN
 rtp://@239.1.2.12:8046
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_afn_hd.png" group-title="LIFESTYLE" tvg-id="005" tvg-name="005-AFN-HD", 005. AFN HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_afn_hd.png" group-title="LIFESTYLE" tvg-id="005" tvg-name="005-AFN-HD", AFN HD
 rtp://@239.1.2.13:8052
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_aljazeera.png" group-title="NEWS" tvg-id="006" tvg-name="006-AL-JAZEERA", 006. AL JAZEERA
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_aljazeera.png" group-title="NEWS" tvg-id="006" tvg-name="006-AL-JAZEERA", AL JAZEERA
 rtp://@239.1.1.195:9144
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_aljazeera_hd.png" group-title="NEWS" tvg-id="007" tvg-name="007-AL-JAZEERA-HD", 007. AL JAZEERA HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_aljazeera_hd.png" group-title="NEWS" tvg-id="007" tvg-name="007-AL-JAZEERA-HD", AL JAZEERA HD
 rtp://@239.1.2.8:8022
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS" tvg-id="008" tvg-name="008-AL-JAZEERA", 008. AL JAZEERA
 rtp://@239.1.2.195:9144
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_alquranalkareem.png" group-title="RELIGI" tvg-id="009" tvg-name="009-AL-QURAN-AL-KAREEM", 009. AL QURAN AL KAREEM
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_alquranalkareem.png" group-title="RELIGI" tvg-id="009" tvg-name="009-AL-QURAN-AL-KAREEM", AL QURAN AL KAREEM
 rtp://@239.1.1.185:9084
 
 #EXTINF:-1 tvg-logo="" group-title="RELIGI" tvg-id="010" tvg-name="010-AL-QURAN-AL-KAREEM", 010. AL QURAN AL KAREEM
@@ -33,25 +33,25 @@ rtp://@239.1.2.185:9084
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="011" tvg-name="011-AMC-CHANNEL", 011. AMC CHANNEL
 rtp://@239.1.2.111:8640
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_animax.png" group-title="" tvg-id="012" tvg-name="012-ANIMAX", 012. ANIMAX
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_animax.png" group-title="" tvg-id="012" tvg-name="012-ANIMAX", ANIMAX
 rtp://@239.1.1.64:8358
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="013" tvg-name="013-ANIMAX", 013. ANIMAX
 rtp://@239.1.2.157:8916
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_aniplus.png" group-title="" tvg-id="014" tvg-name="014-ANIPLUS", 014. ANIPLUS
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_aniplus.png" group-title="" tvg-id="014" tvg-name="014-ANIPLUS", ANIPLUS
 rtp://@239.1.1.117:8676
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="015" tvg-name="015-ANIPLUS", 015. ANIPLUS
 rtp://@239.1.2.117:8676
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_antara.png" group-title="LOCAL" tvg-id="016" tvg-name="016-ANTARA", 016. ANTARA
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_antara.png" group-title="LOCAL" tvg-id="016" tvg-name="016-ANTARA", ANTARA
 rtp://@239.1.1.128:9218
 
 #EXTINF:-1 tvg-logo="" group-title="LOCAL" tvg-id="017" tvg-name="017-ANTARA", 017. ANTARA
 rtp://@239.1.4.24:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_antv.png" group-title="LOCAL" tvg-id="018" tvg-name="018-ANTV", 018. ANTV
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_antv.png" group-title="LOCAL" tvg-id="018" tvg-name="018-ANTV", ANTV
 rtp://@239.1.1.15:8064
 
 #EXTINF:-1 tvg-logo="" group-title="LOCAL" tvg-id="019" tvg-name="019-ANTV", 019. ANTV
@@ -60,7 +60,7 @@ rtp://@239.1.2.15:8064
 #EXTINF:-1 tvg-logo="" group-title="LOCAL" tvg-id="020" tvg-name="020-ANTV", 020. ANTV
 rtp://@239.1.3.15:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_arirang.png" group-title="" tvg-id="021" tvg-name="021-ARIRANG", 021. ARIRANG
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_arirang.png" group-title="" tvg-id="021" tvg-name="021-ARIRANG", ARIRANG
 rtp://@239.1.1.147:8856
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="022" tvg-name="022-ARIRANG", 022. ARIRANG
@@ -72,19 +72,19 @@ rtp://@10.6.41.20:554
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="024" tvg-name="024-AUSTRALIAN-PLUS", 024. AUSTRALIAN PLUS
 rtp://@239.1.2.33:8172
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_axn.png" group-title="" tvg-id="025" tvg-name="025-AXN", 025. AXN
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_axn.png" group-title="" tvg-id="025" tvg-name="025-AXN", AXN
 rtp://@239.1.1.137:8796
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_axn_hd.png" group-title="" tvg-id="026" tvg-name="026-AXN-HD", 026. AXN HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_axn_hd.png" group-title="" tvg-id="026" tvg-name="026-AXN-HD", AXN HD
 rtp://@239.1.1.245:9436
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="027" tvg-name="027-AXN", 027. AXN
 rtp://@239.1.2.137:8796
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_babyfirst.png" group-title="KIDS" tvg-id="028" tvg-name="028-BABYFIRST", 028. BABYFIRST
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_babyfirst.png" group-title="KIDS" tvg-id="028" tvg-name="028-BABYFIRST", BABYFIRST
 rtp://@239.1.1.157:8916
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_balitv.png" group-title="" tvg-id="029" tvg-name="029-BALI-TV", 029. BALI TV
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_balitv.png" group-title="" tvg-id="029" tvg-name="029-BALI-TV", BALI TV
 rtp://@239.1.1.72:8406
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="030" tvg-name="030-BALI-TV", 030. BALI TV
@@ -108,19 +108,19 @@ rtp://@239.1.2.221:9300
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="036" tvg-name="036-BEIN-SPORTS", 036. BEIN SPORTS
 rtp://@239.1.2.223:9312
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_beinsports1.png" group-title="SPORT" tvg-id="037" tvg-name="037-BEIN-SPORTS-1", 037. BEIN SPORTS 1
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_beinsports1.png" group-title="SPORT" tvg-id="037" tvg-name="037-BEIN-SPORTS-1", BEIN SPORTS 1
 rtp://@239.1.1.217:9204
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_beinsports1_hd.png" group-title="SPORT" tvg-id="038" tvg-name="038-BEIN-SPORTS-1-HD", 038. BEIN SPORTS 1 HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_beinsports1_hd.png" group-title="SPORT" tvg-id="038" tvg-name="038-BEIN-SPORTS-1-HD", BEIN SPORTS 1 HD
 rtp://@239.1.1.248:9494
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_beinsports3.png" group-title="SPORT" tvg-id="039" tvg-name="039-BEIN-SPORTS-3", 039. BEIN SPORTS 3
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_beinsports3.png" group-title="SPORT" tvg-id="039" tvg-name="039-BEIN-SPORTS-3", BEIN SPORTS 3
 rtp://@239.1.1.221:9300
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_beinsports3_hd.png" group-title="SPORT" tvg-id="040" tvg-name="040-BEIN-SPORTS-3-HD", 040. BEIN SPORTS 3 HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_beinsports3_hd.png" group-title="SPORT" tvg-id="040" tvg-name="040-BEIN-SPORTS-3-HD", BEIN SPORTS 3 HD
 rtp://@239.1.1.249:9496
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_beritasatu.png" group-title="" tvg-id="041" tvg-name="041-BERITA-SATU", 041. BERITA SATU
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_beritasatu.png" group-title="" tvg-id="041" tvg-name="041-BERITA-SATU", BERITA SATU
 rtp://@239.1.1.183:9072
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="042" tvg-name="042-BERITA-SATU", 042. BERITA SATU
@@ -129,10 +129,10 @@ rtp://@239.1.2.183:9072
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="043" tvg-name="043-BERITA-SATU", 043. BERITA SATU
 rtp://@239.1.3.183:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_bioskopindonesia.png" group-title="" tvg-id="044" tvg-name="044-BIOSKOP-INDONESIA", 044. BIOSKOP INDONESIA
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_bioskopindonesia.png" group-title="" tvg-id="044" tvg-name="044-BIOSKOP-INDONESIA", BIOSKOP INDONESIA
 rtp://@239.1.1.226:9332
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_bloomberg.png" group-title="" tvg-id="045" tvg-name="045-BLOOMBERG", 045. BLOOMBERG
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_bloomberg.png" group-title="" tvg-id="045" tvg-name="045-BLOOMBERG", BLOOMBERG
 rtp://@239.1.1.199:9168
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="046" tvg-name="046-BLOOMBERG", 046. BLOOMBERG
@@ -144,7 +144,7 @@ rtp://@239.1.4.70:1234
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="048" tvg-name="048-BLUE-ANT-EXTREME", 048. BLUE ANT EXTREME
 rtp://@239.1.4.8:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_boomerang.png" group-title="" tvg-id="049" tvg-name="049-BOOMERANG", 049. BOOMERANG
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_boomerang.png" group-title="" tvg-id="049" tvg-name="049-BOOMERANG", BOOMERANG
 rtp://@239.1.1.73:8412
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="050" tvg-name="050-BOOMERANG", 050. BOOMERANG
@@ -153,13 +153,13 @@ rtp://@239.1.2.73:8412
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="051" tvg-name="051-C-MUSIC", 051. C MUSIC
 rtp://@239.1.1.77:8436
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cartoonnetwork.png" group-title="" tvg-id="052" tvg-name="052-CARTOON-NETWORK", 052. CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cartoonnetwork.png" group-title="" tvg-id="052" tvg-name="052-CARTOON-NETWORK", CARTOON NETWORK
 rtp://@239.1.1.123:8712
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="053" tvg-name="053-CARTOON-NETWORK", 053. CARTOON NETWORK
 rtp://@239.1.2.123:8712
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cctv4.png" group-title="" tvg-id="054" tvg-name="054-CCTV-4", 054. CCTV 4
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cctv4.png" group-title="" tvg-id="054" tvg-name="054-CCTV-4", CCTV 4
 rtp://@239.1.1.115:8664
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="055" tvg-name="055-CCTV-4", 055. CCTV 4
@@ -171,13 +171,13 @@ rtp://@239.1.2.121:8700
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="057" tvg-name="057-CELESTIAL", 057. CELESTIAL
 rtp://@239.1.2.97:8556
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_celestialmovies.png" group-title="" tvg-id="058" tvg-name="058-CELESTIAL-MOVIES", 058. CELESTIAL MOVIES
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_celestialmovies.png" group-title="" tvg-id="058" tvg-name="058-CELESTIAL-MOVIES", CELESTIAL MOVIES
 rtp://@239.1.1.97:8556
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cgtn.png" group-title="KNOWLEDGE" tvg-id="059" tvg-name="059-CGTN", 059. CGTN
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cgtn.png" group-title="KNOWLEDGE" tvg-id="059" tvg-name="059-CGTN", CGTN
 rtp://@239.1.1.121:8700
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cgtn_hd.png" group-title="KNOWLEDGE" tvg-id="060" tvg-name="060-CGTN-HD", 060. CGTN HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cgtn_hd.png" group-title="KNOWLEDGE" tvg-id="060" tvg-name="060-CGTN-HD", CGTN HD
 rtp://@239.1.2.4:7998
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="061" tvg-name="061-CHAMPIONS", 061. CHAMPIONS
@@ -204,25 +204,25 @@ rtp://@239.1.2.218:9238
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="068" tvg-name="068-CHAMPIONS-TV2", 068. CHAMPIONS TV2
 rtp://@239.1.2.219:9244
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_chinesedrama_hd.png" group-title="" tvg-id="069" tvg-name="069-CHINESE-DRAMA-HD", 069. CHINESE DRAMA HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_chinesedrama_hd.png" group-title="" tvg-id="069" tvg-name="069-CHINESE-DRAMA-HD", CHINESE DRAMA HD
 rtp://@239.1.2.10:8306
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cinemaworld.png" group-title="" tvg-id="070" tvg-name="070-CINEMA-WORLD", 070. CINEMA WORLD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cinemaworld.png" group-title="" tvg-id="070" tvg-name="070-CINEMA-WORLD", CINEMA WORLD
 rtp://@239.1.1.189:9108
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cinemaworld_hd.png" group-title="" tvg-id="071" tvg-name="071-CINEMA-WORLD-HD", 071. CINEMA WORLD HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cinemaworld_hd.png" group-title="" tvg-id="071" tvg-name="071-CINEMA-WORLD-HD", CINEMA WORLD HD
 rtp://@239.1.2.80:8578
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="072" tvg-name="072-CINEMA-WORLD", 072. CINEMA WORLD
 rtp://@239.1.2.189:9108
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cinemax.png" group-title="" tvg-id="073" tvg-name="073-CINEMAX", 073. CINEMAX
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cinemax.png" group-title="" tvg-id="073" tvg-name="073-CINEMAX", CINEMAX
 rtp://@239.1.1.87:8496
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cinemax_hd.png" group-title="" tvg-id="074" tvg-name="074-CINEMAX-HD", 074. CINEMAX HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cinemax_hd.png" group-title="" tvg-id="074" tvg-name="074-CINEMAX-HD", CINEMAX HD
 rtp://@239.1.2.206:9186
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cinemax_hd.png" group-title="" tvg-id="075" tvg-name="075-CINEMAX-HD", 075. CINEMAX HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cinemax_hd.png" group-title="" tvg-id="075" tvg-name="075-CINEMAX-HD", CINEMAX HD
 rtp://@239.1.2.247:9372
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="076" tvg-name="076-CINEMAX", 076. CINEMAX
@@ -231,25 +231,25 @@ rtp://@239.1.2.87:8496
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="077" tvg-name="077-CINEMAX", 077. CINEMAX
 rtp://@239.1.3.86:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_citradangdut.png" group-title="MUSIC" tvg-id="078" tvg-name="078-CITRA-DANGDUT", 078. CITRA DANGDUT
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_citradangdut.png" group-title="MUSIC" tvg-id="078" tvg-name="078-CITRA-DANGDUT", CITRA DANGDUT
 rtp://@239.1.1.143:8832
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC" tvg-id="079" tvg-name="079-CITRA-DANGDUT", 079. CITRA DANGDUT
 rtp://@239.1.3.77:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_citradrama.png" group-title="" tvg-id="080" tvg-name="080-CITRA-DRAMA", 080. CITRA DRAMA
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_citradrama.png" group-title="" tvg-id="080" tvg-name="080-CITRA-DRAMA", CITRA DRAMA
 rtp://@239.1.1.44:8238
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cna.png" group-title="NEWS" tvg-id="081" tvg-name="081-CNA", 081. CNA
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cna.png" group-title="NEWS" tvg-id="081" tvg-name="081-CNA", CNA
 rtp://@239.1.1.65:8364
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cna_hd.png" group-title="NEWS" tvg-id="082" tvg-name="082-CNA-HD", 082. CNA HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cna_hd.png" group-title="NEWS" tvg-id="082" tvg-name="082-CNA-HD", CNA HD
 rtp://@239.1.2.23:8112
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS" tvg-id="083" tvg-name="083-CNA", 083. CNA
 rtp://@239.1.2.65:8364
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cnbcasia.png" group-title="NEWS" tvg-id="084" tvg-name="084-CNBC-ASIA", 084. CNBC ASIA
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cnbcasia.png" group-title="NEWS" tvg-id="084" tvg-name="084-CNBC-ASIA", CNBC ASIA
 rtp://@239.1.1.155:8904
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS" tvg-id="085" tvg-name="085-CNBC-ASIA", 085. CNBC ASIA
@@ -258,16 +258,16 @@ rtp://@239.1.2.155:8904
 #EXTINF:-1 tvg-logo="" group-title="NEWS" tvg-id="086" tvg-name="086-CNBC-ASIA", 086. CNBC ASIA
 rtp://@239.1.3.155:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cnbcindonesia.png" group-title="NEWS" tvg-id="087" tvg-name="087-CNBC-INDONESIA", 087. CNBC INDONESIA
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cnbcindonesia.png" group-title="NEWS" tvg-id="087" tvg-name="087-CNBC-INDONESIA", CNBC INDONESIA
 rtp://@239.1.2.92:9490
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cnbcindonesia_hd.png" group-title="NEWS" tvg-id="088" tvg-name="088-CNBC-INDONESIA-HD", 088. CNBC INDONESIA HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cnbcindonesia_hd.png" group-title="NEWS" tvg-id="088" tvg-name="088-CNBC-INDONESIA-HD", CNBC INDONESIA HD
 rtp://@239.1.2.94:9448
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cnnindonesia.png" group-title="NEWS" tvg-id="089" tvg-name="089-CNN-INDONESIA", 089. CNN INDONESIA
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cnnindonesia.png" group-title="NEWS" tvg-id="089" tvg-name="089-CNN-INDONESIA", CNN INDONESIA
 rtp://@239.1.1.241:9362
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cnnindonesia_hd.png" group-title="NEWS" tvg-id="090" tvg-name="090-CNN-INDONESIA-HD", 090. CNN INDONESIA HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cnnindonesia_hd.png" group-title="NEWS" tvg-id="090" tvg-name="090-CNN-INDONESIA-HD", CNN INDONESIA HD
 rtp://@239.1.1.180:9054
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS" tvg-id="091" tvg-name="091-CNN-INDONESIA", 091. CNN INDONESIA
@@ -276,31 +276,31 @@ rtp://@239.1.3.213:1234
 #EXTINF:-1 tvg-logo="" group-title="NEWS" tvg-id="092" tvg-name="092-CNN-INDONESIA", 092. CNN INDONESIA
 rtp://@239.1.3.241:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cnninternational.png" group-title="NEWS" tvg-id="093" tvg-name="093-CNN-INTERNATIONAL", 093. CNN INTERNATIONAL
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cnninternational.png" group-title="NEWS" tvg-id="093" tvg-name="093-CNN-INTERNATIONAL", CNN INTERNATIONAL
 rtp://@239.1.1.105:8604
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cnninternational_hd.png" group-title="NEWS" tvg-id="094" tvg-name="094-CNN-INTERNATIONAL-HD", 094. CNN INTERNATIONAL HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cnninternational_hd.png" group-title="NEWS" tvg-id="094" tvg-name="094-CNN-INTERNATIONAL-HD", CNN INTERNATIONAL HD
 rtp://@239.1.1.246:9438
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS" tvg-id="095" tvg-name="095-CNN-INTERNATIONAL", 095. CNN INTERNATIONAL
 rtp://@239.1.2.105:8604
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_crimeinvestigations.png" group-title="KNOWLEDGE" tvg-id="096" tvg-name="096-CRIME---INVESTIGATIONS", 096. CRIME & INVESTIGATIONS
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_crimeinvestigations.png" group-title="KNOWLEDGE" tvg-id="096" tvg-name="096-CRIME---INVESTIGATIONS", CRIME & INVESTIGATIONS
 rtp://@239.1.1.59:8328
 
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE" tvg-id="097" tvg-name="097-CRIME---INVESTIGATIONS", 097. CRIME & INVESTIGATIONS
 rtp://@239.1.2.59:8328
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_ctiasia.png" group-title="" tvg-id="098" tvg-name="098-CTI-ASIA", 098. CTI ASIA
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_ctiasia.png" group-title="" tvg-id="098" tvg-name="098-CTI-ASIA", CTI ASIA
 rtp://@239.1.2.200:9168
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_davincilearning.png" group-title="KIDS" tvg-id="099" tvg-name="099-DA-VINCI-LEARNING", 099. DA VINCI LEARNING
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_davincilearning.png" group-title="KIDS" tvg-id="099" tvg-name="099-DA-VINCI-LEARNING", DA VINCI LEARNING
 rtp://@239.1.1.99:8568
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS" tvg-id="100" tvg-name="100-DA-VINCI-LEARNING", 100. DA VINCI LEARNING
 rtp://@239.1.2.177:9250
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_daaitv.png" group-title="LOCAL" tvg-id="101" tvg-name="101-DAAI-TV", 101. DAAI TV
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_daaitv.png" group-title="LOCAL" tvg-id="101" tvg-name="101-DAAI-TV", DAAI TV
 rtp://@239.1.1.179:9048
 
 #EXTINF:-1 tvg-logo="" group-title="LOCAL" tvg-id="102" tvg-name="102-DAAI-TV", 102. DAAI TV
@@ -309,10 +309,10 @@ rtp://@239.1.2.179:9048
 #EXTINF:-1 tvg-logo="" group-title="LOCAL" tvg-id="103" tvg-name="103-DAAI-TV", 103. DAAI TV
 rtp://@239.1.3.179:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_discoverychannel.png" group-title="KNOWLEDGE" tvg-id="104" tvg-name="104-DISCOVERY-CHANNEL", 104. DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_discoverychannel.png" group-title="KNOWLEDGE" tvg-id="104" tvg-name="104-DISCOVERY-CHANNEL", DISCOVERY CHANNEL
 rtp://@239.1.1.43:8232
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_discoverychannel_hd.png" group-title="KNOWLEDGE" tvg-id="105" tvg-name="105-DISCOVERY-CHANNEL-HD", 105. DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_discoverychannel_hd.png" group-title="KNOWLEDGE" tvg-id="105" tvg-name="105-DISCOVERY-CHANNEL-HD", DISCOVERY CHANNEL HD
 rtp://@239.1.1.247:9440
 
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE" tvg-id="106" tvg-name="106-DISCOVERY-CHANNEL", 106. DISCOVERY CHANNEL
@@ -330,10 +330,10 @@ rtp://@239.1.2.47:8256
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="110" tvg-name="110-DIVA", 110. DIVA
 rtp://@239.1.2.51:8280
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_dreamworks.png" group-title="KIDS" tvg-id="111" tvg-name="111-DREAMWORKS", 111. DREAMWORKS
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_dreamworks.png" group-title="KIDS" tvg-id="111" tvg-name="111-DREAMWORKS", DREAMWORKS
 rtp://@239.1.1.139:8808
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_dreamworks_hd.png" group-title="KIDS" tvg-id="112" tvg-name="112-DREAMWORKS-HD", 112. DREAMWORKS HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_dreamworks_hd.png" group-title="KIDS" tvg-id="112" tvg-name="112-DREAMWORKS-HD", DREAMWORKS HD
 rtp://@239.1.1.234:9222
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS" tvg-id="113" tvg-name="113-DREAMWORKS", 113. DREAMWORKS
@@ -348,19 +348,19 @@ rtp://@239.1.1.63:8352
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="116" tvg-name="116-DUCK-TV", 116. DUCK TV
 rtp://@239.1.2.63:8352
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_duniaanak.png" group-title="KIDS" tvg-id="117" tvg-name="117-DUNIA-ANAK", 117. DUNIA ANAK
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_duniaanak.png" group-title="KIDS" tvg-id="117" tvg-name="117-DUNIA-ANAK", DUNIA ANAK
 rtp://@239.1.1.7:8016
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS" tvg-id="118" tvg-name="118-DUNIA-ANAK", 118. DUNIA ANAK
 rtp://@239.1.2.7:8016
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_dunialain.png" group-title="" tvg-id="119" tvg-name="119-DUNIA-LAIN", 119. DUNIA LAIN
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_dunialain.png" group-title="" tvg-id="119" tvg-name="119-DUNIA-LAIN", DUNIA LAIN
 rtp://@239.1.1.149:8868
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_dw.png" group-title="" tvg-id="120" tvg-name="120-DW", 120. DW
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_dw.png" group-title="" tvg-id="120" tvg-name="120-DW", DW
 rtp://@239.1.1.187:9096
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_dw_hd.png" group-title="" tvg-id="121" tvg-name="121-DW-HD", 121. DW HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_dw_hd.png" group-title="" tvg-id="121" tvg-name="121-DW-HD", DW HD
 rtp://@239.1.2.243:9360
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="122" tvg-name="122-DW", 122. DW
@@ -378,16 +378,16 @@ rtp://@239.1.3.145:1234
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="126" tvg-name="126-E--ENTERTAINMENT", 126. E! ENTERTAINMENT
 rtp://@239.1.4.49:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_eatgo.png" group-title="LIFESTYLE" tvg-id="127" tvg-name="127-EAT---GO", 127. EAT & GO
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_eatgo.png" group-title="LIFESTYLE" tvg-id="127" tvg-name="127-EAT---GO", EAT & GO
 rtp://@239.1.1.229:9350
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_ebcasia.png" group-title="" tvg-id="128" tvg-name="128-EBC-ASIA", 128. EBC ASIA
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_ebcasia.png" group-title="" tvg-id="128" tvg-name="128-EBC-ASIA", EBC ASIA
 rtp://@239.1.2.196:9406
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_eggnetwork.png" group-title="" tvg-id="129" tvg-name="129-EGG-NETWORK", 129. EGG NETWORK
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_eggnetwork.png" group-title="" tvg-id="129" tvg-name="129-EGG-NETWORK", EGG NETWORK
 rtp://@239.1.1.50:8274
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_euronews.png" group-title="NEWS" tvg-id="130" tvg-name="130-EURO-NEWS", 130. EURO NEWS
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_euronews.png" group-title="NEWS" tvg-id="130" tvg-name="130-EURO-NEWS", EURO NEWS
 rtp://@239.1.1.193:9132
 
 #EXTINF:-1 tvg-logo="" group-title="LIFESTYLE" tvg-id="131" tvg-name="131-FASHION-ONE", 131. FASHION ONE
@@ -399,31 +399,31 @@ rtp://@239.1.1.14:8058
 #EXTINF:-1 tvg-logo="" group-title="LIFESTYLE" tvg-id="133" tvg-name="133-FASHION-ONE", 133. FASHION ONE
 rtp://@239.1.2.127:8736
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_fashiontv.png" group-title="LIFESTYLE" tvg-id="134" tvg-name="134-FASHION-TV", 134. FASHION TV
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_fashiontv.png" group-title="LIFESTYLE" tvg-id="134" tvg-name="134-FASHION-TV", FASHION TV
 rtp://@239.1.1.79:8448
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_fashiontv_hd.png" group-title="LIFESTYLE" tvg-id="135" tvg-name="135-FASHION-TV-HD", 135. FASHION TV HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_fashiontv_hd.png" group-title="LIFESTYLE" tvg-id="135" tvg-name="135-FASHION-TV-HD", FASHION TV HD
 rtp://@239.1.2.237:9348
 
 #EXTINF:-1 tvg-logo="" group-title="LIFESTYLE" tvg-id="136" tvg-name="136-FASHION-TV", 136. FASHION TV
 rtp://@239.1.2.79:8448
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_fightsport.png" group-title="SPORT" tvg-id="137" tvg-name="137-FIGHT-SPORT", 137. FIGHT SPORT
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_fightsport.png" group-title="SPORT" tvg-id="137" tvg-name="137-FIGHT-SPORT", FIGHT SPORT
 rtp://@239.1.1.177:9036
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_fightsport_hd.png" group-title="SPORT" tvg-id="138" tvg-name="138-FIGHT-SPORT-HD", 138. FIGHT SPORT HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_fightsport_hd.png" group-title="SPORT" tvg-id="138" tvg-name="138-FIGHT-SPORT-HD", FIGHT SPORT HD
 rtp://@239.1.2.209:9196
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT" tvg-id="139" tvg-name="139-FIGHT-SPORT", 139. FIGHT SPORT
 rtp://@239.1.2.99:8568
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_flik.png" group-title="MOVIES" tvg-id="140" tvg-name="140-FLIK", 140. FLIK
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_flik.png" group-title="MOVIES" tvg-id="140" tvg-name="140-FLIK", FLIK
 rtp://@239.1.1.71:8400
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_flik_hd.png" group-title="MOVIES" tvg-id="141" tvg-name="141-FLIK-HD", 141. FLIK HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_flik_hd.png" group-title="MOVIES" tvg-id="141" tvg-name="141-FLIK-HD", FLIK HD
 rtp://@239.1.1.239:9276
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_formosa.png" group-title="" tvg-id="142" tvg-name="142-FORMOSA", 142. FORMOSA
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_formosa.png" group-title="" tvg-id="142" tvg-name="142-FORMOSA", FORMOSA
 rtp://@239.1.2.198:9386
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="143" tvg-name="143-FOX", 143. FOX
@@ -453,10 +453,10 @@ rtp://@239.1.2.53:8292
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="151" tvg-name="151-FOX-SPORTS-2", 151. FOX SPORTS 2
 rtp://@239.1.2.101:8580
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_france24.png" group-title="NEWS" tvg-id="152" tvg-name="152-FRANCE-24", 152. FRANCE 24
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_france24.png" group-title="NEWS" tvg-id="152" tvg-name="152-FRANCE-24", FRANCE 24
 rtp://@239.1.1.191:9120
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_france24_hd.png" group-title="NEWS" tvg-id="153" tvg-name="153-FRANCE-24-HD", 153. FRANCE 24 HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_france24_hd.png" group-title="NEWS" tvg-id="153" tvg-name="153-FRANCE-24-HD", FRANCE 24 HD
 rtp://@239.1.2.22:8106
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS" tvg-id="154" tvg-name="154-FRANCE-24", 154. FRANCE 24
@@ -471,16 +471,16 @@ rtp://@239.1.2.227:9324
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="157" tvg-name="157-FYI", 157. FYI
 rtp://@239.1.2.61:8340
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_galaxy.png" group-title="" tvg-id="158" tvg-name="158-GALAXY", 158. GALAXY
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_galaxy.png" group-title="" tvg-id="158" tvg-name="158-GALAXY", GALAXY
 rtp://@239.1.1.184:8778
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_galaxypremium.png" group-title="" tvg-id="159" tvg-name="159-GALAXY-PREMIUM", 159. GALAXY PREMIUM
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_galaxypremium.png" group-title="" tvg-id="159" tvg-name="159-GALAXY-PREMIUM", GALAXY PREMIUM
 rtp://@239.1.2.240:9390
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="160" tvg-name="160-GALAXY-PREMIUM", 160. GALAXY PREMIUM
 rtp://@239.1.3.223:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_gem.png" group-title="" tvg-id="161" tvg-name="161-GEM", 161. GEM
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_gem.png" group-title="" tvg-id="161" tvg-name="161-GEM", GEM
 rtp://@239.1.1.86:8154
 
 #EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_golf.png" group-title="SPORT" tvg-id="162" tvg-name="162-GOLF-", 162. GOLF+
@@ -489,16 +489,16 @@ rtp://@239.1.1.140:8814
 #EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_golf.png" group-title="SPORT" tvg-id="163" tvg-name="163-GOLF-", 163. GOLF+
 rtp://@239.1.2.214:9214
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_gtv_hd.png" group-title="LOCAL" tvg-id="164" tvg-name="164-GTV-HD", 164. GTV HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_gtv_hd.png" group-title="LOCAL" tvg-id="164" tvg-name="164-GTV-HD", GTV HD
 http://192.168.255.250/8.ts
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hbo.png" group-title="MOVIES" tvg-id="165" tvg-name="165-HBO", 165. HBO
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hbo.png" group-title="MOVIES" tvg-id="165" tvg-name="165-HBO", HBO
 rtp://@239.1.1.95:8544
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hbo_hd.png" group-title="MOVIES" tvg-id="166" tvg-name="166-HBO-HD", 166. HBO HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hbo_hd.png" group-title="MOVIES" tvg-id="166" tvg-name="166-HBO-HD", HBO HD
 rtp://@239.1.1.203:9192
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hbo_hd.png" group-title="MOVIES" tvg-id="167" tvg-name="167-HBO-HD", 167. HBO HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hbo_hd.png" group-title="MOVIES" tvg-id="167" tvg-name="167-HBO-HD", HBO HD
 rtp://@239.1.2.114:9428
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-id="168" tvg-name="168-HBO", 168. HBO
@@ -507,13 +507,13 @@ rtp://@239.1.2.95:8544
 #EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-id="169" tvg-name="169-HBO", 169. HBO
 rtp://@239.1.3.10:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hbofamily.png" group-title="MOVIES" tvg-id="170" tvg-name="170-HBO-FAMILY", 170. HBO FAMILY
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hbofamily.png" group-title="MOVIES" tvg-id="170" tvg-name="170-HBO-FAMILY", HBO FAMILY
 rtp://@239.1.1.89:8508
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hbofamily_hd.png" group-title="MOVIES" tvg-id="171" tvg-name="171-HBO-FAMILY-HD", 171. HBO FAMILY HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hbofamily_hd.png" group-title="MOVIES" tvg-id="171" tvg-name="171-HBO-FAMILY-HD", HBO FAMILY HD
 rtp://@239.1.2.202:9176
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hbofamily_hd.png" group-title="MOVIES" tvg-id="172" tvg-name="172-HBO-FAMILY-HD", 172. HBO FAMILY HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hbofamily_hd.png" group-title="MOVIES" tvg-id="172" tvg-name="172-HBO-FAMILY-HD", HBO FAMILY HD
 rtp://@239.1.2.245:9366
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-id="173" tvg-name="173-HBO-FAMILY", 173. HBO FAMILY
@@ -522,13 +522,13 @@ rtp://@239.1.2.89:8508
 #EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-id="174" tvg-name="174-HBO-FAMILY", 174. HBO FAMILY
 rtp://@239.1.3.62:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hbohits.png" group-title="MOVIES" tvg-id="175" tvg-name="175-HBO-HITS", 175. HBO HITS
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hbohits.png" group-title="MOVIES" tvg-id="175" tvg-name="175-HBO-HITS", HBO HITS
 rtp://@239.1.1.91:8520
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hbohits_hd.png" group-title="MOVIES" tvg-id="176" tvg-name="176-HBO-HITS-HD", 176. HBO HITS HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hbohits_hd.png" group-title="MOVIES" tvg-id="176" tvg-name="176-HBO-HITS-HD", HBO HITS HD
 rtp://@239.1.1.215:9264
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hbohits_hd.png" group-title="MOVIES" tvg-id="177" tvg-name="177-HBO-HITS-HD", 177. HBO HITS HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hbohits_hd.png" group-title="MOVIES" tvg-id="177" tvg-name="177-HBO-HITS-HD", HBO HITS HD
 rtp://@239.1.2.204:9182
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-id="178" tvg-name="178-HBO-HITS", 178. HBO HITS
@@ -537,13 +537,13 @@ rtp://@239.1.2.91:8520
 #EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-id="179" tvg-name="179-HBO-HITS", 179. HBO HITS
 rtp://@239.1.3.78:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hbosignature.png" group-title="MOVIES" tvg-id="180" tvg-name="180-HBO-SIGNATURE", 180. HBO SIGNATURE
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hbosignature.png" group-title="MOVIES" tvg-id="180" tvg-name="180-HBO-SIGNATURE", HBO SIGNATURE
 rtp://@239.1.1.93:8532
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hbosignature_hd.png" group-title="MOVIES" tvg-id="181" tvg-name="181-HBO-SIGNATURE-HD", 181. HBO SIGNATURE HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hbosignature_hd.png" group-title="MOVIES" tvg-id="181" tvg-name="181-HBO-SIGNATURE-HD", HBO SIGNATURE HD
 rtp://@239.1.2.116:9404
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hbosignature_hd.png" group-title="MOVIES" tvg-id="182" tvg-name="182-HBO-SIGNATURE-HD", 182. HBO SIGNATURE HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hbosignature_hd.png" group-title="MOVIES" tvg-id="182" tvg-name="182-HBO-SIGNATURE-HD", HBO SIGNATURE HD
 rtp://@239.1.2.249:9378
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-id="183" tvg-name="183-HBO-SIGNATURE", 183. HBO SIGNATURE
@@ -552,49 +552,49 @@ rtp://@239.1.2.93:8532
 #EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-id="184" tvg-name="184-HBO-SIGNATURE", 184. HBO SIGNATURE
 rtp://@239.1.3.68:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hgtv.png" group-title="LIFESTYLE" tvg-id="185" tvg-name="185-HGTV", 185. HGTV
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hgtv.png" group-title="LIFESTYLE" tvg-id="185" tvg-name="185-HGTV", HGTV
 rtp://@239.1.1.210:9506
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hgtv_hd.png" group-title="LIFESTYLE" tvg-id="186" tvg-name="186-HGTV-HD", 186. HGTV HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hgtv_hd.png" group-title="LIFESTYLE" tvg-id="186" tvg-name="186-HGTV-HD", HGTV HD
 rtp://@239.1.2.34:8178
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="187" tvg-name="187-HI-INDO", 187. HI INDO
 rtp://@239.1.1.240:9348
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_historychannel.png" group-title="" tvg-id="188" tvg-name="188-HISTORY-CHANNEL", 188. HISTORY CHANNEL
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_historychannel.png" group-title="" tvg-id="188" tvg-name="188-HISTORY-CHANNEL", HISTORY CHANNEL
 rtp://@239.1.1.57:8316
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_historychannel_hd.png" group-title="" tvg-id="189" tvg-name="189-HISTORY-CHANNEL-HD", 189. HISTORY CHANNEL HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_historychannel_hd.png" group-title="" tvg-id="189" tvg-name="189-HISTORY-CHANNEL-HD", HISTORY CHANNEL HD
 rtp://@239.1.1.23:8112
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="190" tvg-name="190-HISTORY-CHANNEL", 190. HISTORY CHANNEL
 rtp://@239.1.2.57:8316
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hits.png" group-title="MOVIES" tvg-id="191" tvg-name="191-HITS", 191. HITS
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hits.png" group-title="MOVIES" tvg-id="191" tvg-name="191-HITS", HITS
 rtp://@239.1.1.171:9000
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hits_hd.png" group-title="MOVIES" tvg-id="192" tvg-name="192-HITS-HD", 192. HITS HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hits_hd.png" group-title="MOVIES" tvg-id="192" tvg-name="192-HITS-HD", HITS HD
 rtp://@239.1.1.209:9228
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hitsmovies.png" group-title="MOVIES" tvg-id="193" tvg-name="193-HITS-MOVIES", 193. HITS MOVIES
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hitsmovies.png" group-title="MOVIES" tvg-id="193" tvg-name="193-HITS-MOVIES", HITS MOVIES
 rtp://@239.1.1.125:8724
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hitsmovies_hd.png" group-title="MOVIES" tvg-id="194" tvg-name="194-HITS-MOVIES-HD", 194. HITS MOVIES HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hitsmovies_hd.png" group-title="MOVIES" tvg-id="194" tvg-name="194-HITS-MOVIES-HD", HITS MOVIES HD
 rtp://@239.1.1.190:9116
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hopechannel.png" group-title="" tvg-id="195" tvg-name="195-HOPE-CHANNEL", 195. HOPE CHANNEL
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_hopechannel.png" group-title="" tvg-id="195" tvg-name="195-HOPE-CHANNEL", HOPE CHANNEL
 rtp://@239.1.1.78:8442
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="196" tvg-name="196-HOPE-CHANNEL", 196. HOPE CHANNEL
 rtp://@239.1.3.236:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_horee.png" group-title="" tvg-id="197" tvg-name="197-HOREE-", 197. HOREE!
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_horee.png" group-title="" tvg-id="197" tvg-name="197-HOREE-", HOREE!
 rtp://@239.1.1.68:8382
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_horizonsports.png" group-title="SPORT" tvg-id="198" tvg-name="198-HORIZON-SPORTS", 198. HORIZON SPORTS
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_horizonsports.png" group-title="SPORT" tvg-id="198" tvg-name="198-HORIZON-SPORTS", HORIZON SPORTS
 rtp://@239.1.1.103:8592
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_horizonsports_hd.png" group-title="SPORT" tvg-id="199" tvg-name="199-HORIZON-SPORTS-HD", 199. HORIZON SPORTS HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_horizonsports_hd.png" group-title="SPORT" tvg-id="199" tvg-name="199-HORIZON-SPORTS-HD", HORIZON SPORTS HD
 rtp://@239.1.2.201:9174
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="200" tvg-name="200-ICNTV-CHINESE", 200. ICNTV CHINESE
@@ -606,7 +606,7 @@ rtp://@239.1.4.11:1234
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="202" tvg-name="202-IDKU", 202. IDKU
 rtp://@239.1.4.41:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_idxchannel.png" group-title="NEWS" tvg-id="203" tvg-name="203-IDX-CHANNEL", 203. IDX CHANNEL
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_idxchannel.png" group-title="NEWS" tvg-id="203" tvg-name="203-IDX-CHANNEL", IDX CHANNEL
 rtp://@239.1.2.248:9398
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS" tvg-id="204" tvg-name="204-IDX-CHANNEL", 204. IDX CHANNEL
@@ -615,7 +615,7 @@ rtp://@239.1.3.111:1234
 #EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-id="205" tvg-name="205-IFLIX", 205. IFLIX
 rtp://@239.1.2.233:9348
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_ikonser.png" group-title="MUSIC" tvg-id="206" tvg-name="206-IKONSER", 206. IKONSER
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_ikonser.png" group-title="MUSIC" tvg-id="206" tvg-name="206-IKONSER", IKONSER
 rtp://@239.1.2.222:9256
 
 #EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_ikonser.png" group-title="MUSIC" tvg-id="207" tvg-name="207-IKONSER", 207. IKONSER
@@ -624,19 +624,19 @@ rtp://@239.1.2.221:9250
 #EXTINF:-1 tvg-logo="" group-title="MUSIC" tvg-id="208" tvg-name="208-IKONSER", 208. IKONSER
 rtp://@239.1.4.43:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_imc.png" group-title="MOVIES" tvg-id="209" tvg-name="209-IMC", 209. IMC
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_imc.png" group-title="MOVIES" tvg-id="209" tvg-name="209-IMC", IMC
 rtp://@239.1.2.20:8094
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_imc_hd.png" group-title="MOVIES" tvg-id="210" tvg-name="210-IMC-HD", 210. IMC HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_imc_hd.png" group-title="MOVIES" tvg-id="210" tvg-name="210-IMC-HD", IMC HD
 rtp://@239.1.1.145:8844
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_indikids.png" group-title="KIDS" tvg-id="211" tvg-name="211-INDI-KIDS", 211. INDI KIDS
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_indikids.png" group-title="KIDS" tvg-id="211" tvg-name="211-INDI-KIDS", INDI KIDS
 rtp://@239.1.1.45:8244
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_indikids_hd.png" group-title="KIDS" tvg-id="212" tvg-name="212-INDI-KIDS-HD", 212. INDI KIDS HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_indikids_hd.png" group-title="KIDS" tvg-id="212" tvg-name="212-INDI-KIDS-HD", INDI KIDS HD
 rtp://@239.1.1.201:9180
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_indosiar.png" group-title="LOCAL" tvg-id="213" tvg-name="213-INDOSIAR", 213. INDOSIAR
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_indosiar.png" group-title="LOCAL" tvg-id="213" tvg-name="213-INDOSIAR", INDOSIAR
 rtp://@239.1.1.17:8076
 
 #EXTINF:-1 tvg-logo="" group-title="LOCAL" tvg-id="214" tvg-name="214-INDOSIAR", 214. INDOSIAR
@@ -645,7 +645,7 @@ rtp://@239.1.2.17:8076
 #EXTINF:-1 tvg-logo="" group-title="LOCAL" tvg-id="215" tvg-name="215-INDOSIAR", 215. INDOSIAR
 rtp://@239.1.3.17:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_insert.png" group-title="" tvg-id="216" tvg-name="216-INSERT", 216. INSERT
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_insert.png" group-title="" tvg-id="216" tvg-name="216-INSERT", INSERT
 rtp://@239.1.1.113:8652
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="217" tvg-name="217-INSERT", 217. INSERT
@@ -654,7 +654,7 @@ rtp://@239.1.3.113:1234
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="218" tvg-name="218-INTV---MYTV", 218. INTV / MYTV
 rtp://@239.1.1.162:8946
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_jaktv.png" group-title="LOCAL" tvg-id="219" tvg-name="219-JAK-TV", 219. JAK TV
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_jaktv.png" group-title="LOCAL" tvg-id="219" tvg-name="219-JAK-TV", JAK TV
 rtp://@239.1.1.107:8616
 
 #EXTINF:-1 tvg-logo="" group-title="LOCAL" tvg-id="220" tvg-name="220-JAK-TV", 220. JAK TV
@@ -669,37 +669,37 @@ rtp://@239.1.1.238:9400
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="223" tvg-name="223-JI-TV", 223. JI TV
 rtp://@239.1.3.206:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_jowo.png" group-title="" tvg-id="224" tvg-name="224-JOWO", 224. JOWO
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_jowo.png" group-title="" tvg-id="224" tvg-name="224-JOWO", JOWO
 rtp://@239.1.2.6:8000
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_jowo_hd.png" group-title="" tvg-id="225" tvg-name="225-JOWO-HD", 225. JOWO HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_jowo_hd.png" group-title="" tvg-id="225" tvg-name="225-JOWO-HD", JOWO HD
 rtp://@239.1.1.219:9288
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_jowo_hd.png" group-title="" tvg-id="226" tvg-name="226-JOWO-HD", 226. JOWO HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_jowo_hd.png" group-title="" tvg-id="226" tvg-name="226-JOWO-HD", JOWO HD
 rtp://@239.1.2.212:9208
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="227" tvg-name="227-JOWO", 227. JOWO
 rtp://@239.1.4.4:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_jtv.png" group-title="" tvg-id="228" tvg-name="228-JTV", 228. JTV
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_jtv.png" group-title="" tvg-id="228" tvg-name="228-JTV", JTV
 rtp://@239.1.1.6:8010
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="229" tvg-name="229-JTV", 229. JTV
 rtp://@239.1.3.214:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_kplus.png" group-title="" tvg-id="230" tvg-name="230-K-PLUS", 230. K PLUS
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_kplus.png" group-title="" tvg-id="230" tvg-name="230-K-PLUS", K PLUS
 rtp://@239.1.1.242:9426
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_kplus_hd.png" group-title="" tvg-id="231" tvg-name="231-K-PLUS-HD", 231. K PLUS HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_kplus_hd.png" group-title="" tvg-id="231" tvg-name="231-K-PLUS-HD", K PLUS HD
 rtp://@239.1.1.202:9186
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="232" tvg-name="232-KAKU", 232. KAKU
 rtp://@239.1.1.214:9514
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_kbsworld.png" group-title="" tvg-id="233" tvg-name="233-KBS-WORLD", 233. KBS WORLD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_kbsworld.png" group-title="" tvg-id="233" tvg-name="233-KBS-WORLD", KBS WORLD
 rtp://@239.1.1.167:8976
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_kbsworld_hd.png" group-title="" tvg-id="234" tvg-name="234-KBS-WORLD-HD", 234. KBS WORLD HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_kbsworld_hd.png" group-title="" tvg-id="234" tvg-name="234-KBS-WORLD-HD", KBS WORLD HD
 rtp://@239.1.1.13:8052
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="235" tvg-name="235-KBS-WORLD", 235. KBS WORLD
@@ -708,16 +708,16 @@ rtp://@239.1.2.167:8976
 #EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_khazanah.png" group-title="" tvg-id="236" tvg-name="236-KHAZANAH", 236. KHAZANAH
 rtp://@239.1.1.230:9356
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_kix.png" group-title="" tvg-id="237" tvg-name="237-KIX", 237. KIX
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_kix.png" group-title="" tvg-id="237" tvg-name="237-KIX", KIX
 rtp://@239.1.1.81:8460
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_kix_hd.png" group-title="" tvg-id="238" tvg-name="238-KIX-HD", 238. KIX HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_kix_hd.png" group-title="" tvg-id="238" tvg-name="238-KIX-HD", KIX HD
 rtp://@239.1.2.207:9190
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="239" tvg-name="239-KIX", 239. KIX
 rtp://@239.1.2.81:8460
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_kompastv.png" group-title="LOCAL" tvg-id="240" tvg-name="240-KOMPAS-TV", 240. KOMPAS TV
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_kompastv.png" group-title="LOCAL" tvg-id="240" tvg-name="240-KOMPAS-TV", KOMPAS TV
 rtp://@239.1.1.197:9156
 
 #EXTINF:-1 tvg-logo="" group-title="LOCAL" tvg-id="241" tvg-name="241-KOMPAS-TV", 241. KOMPAS TV
@@ -726,40 +726,40 @@ rtp://@239.1.2.197:9156
 #EXTINF:-1 tvg-logo="" group-title="LOCAL" tvg-id="242" tvg-name="242-KOMPAS-TV", 242. KOMPAS TV
 rtp://@239.1.3.197:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_kungfutv_hd.png" group-title="" tvg-id="243" tvg-name="243-KUNGFU-TV-HD", 243. KUNGFU TV HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_kungfutv_hd.png" group-title="" tvg-id="243" tvg-name="243-KUNGFU-TV-HD", KUNGFU TV HD
 rtp://@239.1.2.40:8206
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="244" tvg-name="244-KUNGFU-TV", 244. KUNGFU TV
 rtp://@239.1.3.235:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_lejelhomeshopping.png" group-title="LIFESTYLE" tvg-id="245" tvg-name="245-LEJEL-HOME-SHOPPING", 245. LEJEL HOME SHOPPING
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_lejelhomeshopping.png" group-title="LIFESTYLE" tvg-id="245" tvg-name="245-LEJEL-HOME-SHOPPING", LEJEL HOME SHOPPING
 rtp://@239.1.2.3:7992
 
 #EXTINF:-1 tvg-logo="" group-title="LIFESTYLE" tvg-id="246" tvg-name="246-LEJEL-HOME-SHOPPING-LIVE", 246. LEJEL HOME SHOPPING LIVE
 rtp://@239.1.3.3:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_lifetime.png" group-title="" tvg-id="247" tvg-name="247-LIFETIME", 247. LIFETIME
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_lifetime.png" group-title="" tvg-id="247" tvg-name="247-LIFETIME", LIFETIME
 rtp://@239.1.1.181:9266
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_lifetime_hd.png" group-title="" tvg-id="248" tvg-name="248-LIFETIME-HD", 248. LIFETIME HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_lifetime_hd.png" group-title="" tvg-id="248" tvg-name="248-LIFETIME-HD", LIFETIME HD
 rtp://@239.1.1.25:8124
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="249" tvg-name="249-LIFETIME", 249. LIFETIME
 rtp://@239.1.2.181:9260
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_linguachannel.png" group-title="KNOWLEDGE" tvg-id="250" tvg-name="250-LINGUA-CHANNEL", 250. LINGUA CHANNEL
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_linguachannel.png" group-title="KNOWLEDGE" tvg-id="250" tvg-name="250-LINGUA-CHANNEL", LINGUA CHANNEL
 rtp://@239.1.2.90:9500
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/TVDigital.png" group-title="LIFESTYLE" tvg-id="251" tvg-name="251-LIVING-ENTERTAINMENT", 251. LIVING ENTERTAINMENT
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/TVDigital.png" group-title="LIFESTYLE" tvg-id="251" tvg-name="251-LIVING-ENTERTAINMENT", LIVING ENTERTAINMENT
 rtp://@239.1.1.3:7992
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="252" tvg-name="252-M-CHANNEL", 252. M CHANNEL
 rtp://@239.1.2.135:8784
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_metrotv.png" group-title="NEWS" tvg-id="253" tvg-name="253-METRO-TV", 253. METRO TV
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_metrotv.png" group-title="NEWS" tvg-id="253" tvg-name="253-METRO-TV", METRO TV
 rtp://@239.1.1.19:8088
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_metrotv_hd.png" group-title="NEWS" tvg-id="254" tvg-name="254-METRO-TV-HD", 254. METRO TV HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_metrotv_hd.png" group-title="NEWS" tvg-id="254" tvg-name="254-METRO-TV-HD", METRO TV HD
 rtp://@239.1.2.2:7986
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS" tvg-id="255" tvg-name="255-METRO-TV", 255. METRO TV
@@ -777,28 +777,28 @@ rtp://@239.1.4.33:1234
 #EXTINF:-1 tvg-logo="" group-title="LIFESTYLE" tvg-id="259" tvg-name="259-MNC-SHOP", 259. MNC SHOP
 rtp://@239.1.3.244:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_mnctv_hd.png" group-title="LOCAL" tvg-id="260" tvg-name="260-MNC-TV-HD", 260. MNC TV HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_mnctv_hd.png" group-title="LOCAL" tvg-id="260" tvg-name="260-MNC-TV-HD", MNC TV HD
 http://192.168.255.250/7.ts
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_mqtv.png" group-title="RELIGI" tvg-id="261" tvg-name="261-MQTV", 261. MQTV
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_mqtv.png" group-title="RELIGI" tvg-id="261" tvg-name="261-MQTV", MQTV
 rtp://@239.1.1.213:9252
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_mshop.png" group-title="LIFESTYLE" tvg-id="262" tvg-name="262-MSHOP", 262. MSHOP
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_mshop.png" group-title="LIFESTYLE" tvg-id="262" tvg-name="262-MSHOP", MSHOP
 rtp://@239.1.2.54:8298
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_mshopsignature.png" group-title="LIFESTYLE" tvg-id="263" tvg-name="263-MSHOP-SIGNATURE", 263. MSHOP SIGNATURE
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_mshopsignature.png" group-title="LIFESTYLE" tvg-id="263" tvg-name="263-MSHOP-SIGNATURE", MSHOP SIGNATURE
 rtp://@239.1.1.36:8190
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_mtatv.png" group-title="RELIGI" tvg-id="264" tvg-name="264-MTA-TV", 264. MTA TV
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_mtatv.png" group-title="RELIGI" tvg-id="264" tvg-name="264-MTA-TV", MTA TV
 rtp://@239.1.2.234:9374
 
 #EXTINF:-1 tvg-logo="" group-title="RELIGI" tvg-id="265" tvg-name="265-MTA-TV", 265. MTA TV
 rtp://@239.1.4.37:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_mtvlive.png" group-title="MUSIC" tvg-id="266" tvg-name="266-MTV-LIVE", 266. MTV LIVE
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_mtvlive.png" group-title="MUSIC" tvg-id="266" tvg-name="266-MTV-LIVE", MTV LIVE
 rtp://@239.1.1.5:8004
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_mtvlive_hd.png" group-title="MUSIC" tvg-id="267" tvg-name="267-MTV-LIVE-HD", 267. MTV LIVE HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_mtvlive_hd.png" group-title="MUSIC" tvg-id="267" tvg-name="267-MTV-LIVE-HD", MTV LIVE HD
 rtp://@239.1.2.16:8070
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC" tvg-id="268" tvg-name="268-MTV-LIVE", 268. MTV LIVE
@@ -807,22 +807,22 @@ rtp://@239.1.2.5:8004
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="269" tvg-name="269-MURAD", 269. MURAD
 rtp://@239.1.1.251:10004
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_mycinema.png" group-title="MOVIES" tvg-id="270" tvg-name="270-MY-CINEMA", 270. MY CINEMA
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_mycinema.png" group-title="MOVIES" tvg-id="270" tvg-name="270-MY-CINEMA", MY CINEMA
 rtp://@239.1.1.161:8940
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_mycinema_hd.png" group-title="MOVIES" tvg-id="271" tvg-name="271-MY-CINEMA-HD", 271. MY CINEMA HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_mycinema_hd.png" group-title="MOVIES" tvg-id="271" tvg-name="271-MY-CINEMA-HD", MY CINEMA HD
 rtp://@239.1.2.225:9318
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_mycinemaasia.png" group-title="MOVIES" tvg-id="272" tvg-name="272-MY-CINEMA-ASIA", 272. MY CINEMA ASIA
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_mycinemaasia.png" group-title="MOVIES" tvg-id="272" tvg-name="272-MY-CINEMA-ASIA", MY CINEMA ASIA
 rtp://@239.1.1.151:8880
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_myfamilychannel.png" group-title="MOVIES" tvg-id="273" tvg-name="273-MY-FAMILY-CHANNEL", 273. MY FAMILY CHANNEL
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_myfamilychannel.png" group-title="MOVIES" tvg-id="273" tvg-name="273-MY-FAMILY-CHANNEL", MY FAMILY CHANNEL
 rtp://@239.1.1.175:9024
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_myfamilychannel_hd.png" group-title="MOVIES" tvg-id="274" tvg-name="274-MY-FAMILY-CHANNEL-HD", 274. MY FAMILY CHANNEL HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_myfamilychannel_hd.png" group-title="MOVIES" tvg-id="274" tvg-name="274-MY-FAMILY-CHANNEL-HD", MY FAMILY CHANNEL HD
 rtp://@239.1.1.237:9396
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_mykidz.png" group-title="MOVIES" tvg-id="275" tvg-name="275-MY-KIDZ", 275. MY KIDZ
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_mykidz.png" group-title="MOVIES" tvg-id="275" tvg-name="275-MY-KIDZ", MY KIDZ
 rtp://@239.1.1.47:8256
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="276" tvg-name="276-MYTV", 276. MYTV
@@ -831,34 +831,34 @@ rtp://@239.1.4.28:1234
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE" tvg-id="277" tvg-name="277-NAT-GEO-PEOPLE", 277. NAT GEO PEOPLE
 rtp://@239.1.2.67:8376
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_natgeowild.png" group-title="KNOWLEDGE" tvg-id="278" tvg-name="278-NAT-GEO-WILD", 278. NAT GEO WILD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_natgeowild.png" group-title="KNOWLEDGE" tvg-id="278" tvg-name="278-NAT-GEO-WILD", NAT GEO WILD
 rtp://@239.1.1.35:8184
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_natgeowild_hd.png" group-title="KNOWLEDGE" tvg-id="279" tvg-name="279-NAT-GEO-WILD-HD", 279. NAT GEO WILD HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_natgeowild_hd.png" group-title="KNOWLEDGE" tvg-id="279" tvg-name="279-NAT-GEO-WILD-HD", NAT GEO WILD HD
 rtp://@239.1.1.207:9216
 
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE" tvg-id="280" tvg-name="280-NAT-GEO-WILD", 280. NAT GEO WILD
 rtp://@239.1.2.35:8184
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_nationalgeographic.png" group-title="KNOWLEDGE" tvg-id="281" tvg-name="281-NATIONAL-GEOGRAPHIC", 281. NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_nationalgeographic.png" group-title="KNOWLEDGE" tvg-id="281" tvg-name="281-NATIONAL-GEOGRAPHIC", NATIONAL GEOGRAPHIC
 rtp://@239.1.1.169:8988
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_nationalgeographic_hd.png" group-title="KNOWLEDGE" tvg-id="282" tvg-name="282-NATIONAL-GEOGRAPHIC-HD", 282. NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_nationalgeographic_hd.png" group-title="KNOWLEDGE" tvg-id="282" tvg-name="282-NATIONAL-GEOGRAPHIC-HD", NATIONAL GEOGRAPHIC HD
 rtp://@239.1.1.243:9432
 
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE" tvg-id="283" tvg-name="283-NATIONAL-GEOGRAPHIC", 283. NATIONAL GEOGRAPHIC
 rtp://@239.1.2.169:8988
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_nbatv_hd.png" group-title="SPORT" tvg-id="284" tvg-name="284-NBA-TV-HD", 284. NBA TV HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_nbatv_hd.png" group-title="SPORT" tvg-id="284" tvg-name="284-NBA-TV-HD", NBA TV HD
 rtp://@239.1.1.49:8268
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_nbatv_hd.png" group-title="SPORT" tvg-id="285" tvg-name="285-NBA-TV-HD", 285. NBA TV HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_nbatv_hd.png" group-title="SPORT" tvg-id="285" tvg-name="285-NBA-TV-HD", NBA TV HD
 rtp://@239.1.2.210:9444
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_net.png" group-title="LOCAL" tvg-id="286" tvg-name="286-NET", 286. NET
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_net.png" group-title="LOCAL" tvg-id="286" tvg-name="286-NET", NET
 rtp://@239.1.1.119:8688
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_net_hd.png" group-title="LOCAL" tvg-id="287" tvg-name="287-NET-HD", 287. NET HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_net_hd.png" group-title="LOCAL" tvg-id="287" tvg-name="287-NET-HD", NET HD
 rtp://@239.1.1.158:8922
 
 #EXTINF:-1 tvg-logo="" group-title="LOCAL" tvg-id="288" tvg-name="288-NET", 288. NET
@@ -873,31 +873,31 @@ rtp://@239.1.4.13:1234
 #EXTINF:-1 tvg-logo="" group-title="LOCAL" tvg-id="291" tvg-name="291-NET", 291. NET
 rtp://@239.1.4.16:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_nhkworldjapan.png" group-title="" tvg-id="292" tvg-name="292-NHK-WORLD-JAPAN", 292. NHK WORLD JAPAN
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_nhkworldjapan.png" group-title="" tvg-id="292" tvg-name="292-NHK-WORLD-JAPAN", NHK WORLD JAPAN
 rtp://@239.1.1.236:9390
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_nhkworldjapan_hd.png" group-title="" tvg-id="293" tvg-name="293-NHK-WORLD-JAPAN-HD", 293. NHK WORLD JAPAN HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_nhkworldjapan_hd.png" group-title="" tvg-id="293" tvg-name="293-NHK-WORLD-JAPAN-HD", NHK WORLD JAPAN HD
 rtp://@239.1.2.239:9354
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="294" tvg-name="294-NHK-WORLD-JAPAN", 294. NHK WORLD JAPAN
 rtp://@239.1.4.23:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_nhkworldpremium.png" group-title="" tvg-id="295" tvg-name="295-NHK-WORLD-PREMIUM", 295. NHK WORLD PREMIUM
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_nhkworldpremium.png" group-title="" tvg-id="295" tvg-name="295-NHK-WORLD-PREMIUM", NHK WORLD PREMIUM
 rtp://@239.1.1.165:8964
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_nhkworldpremium_hd.png" group-title="" tvg-id="296" tvg-name="296-NHK-WORLD-PREMIUM-HD", 296. NHK WORLD PREMIUM HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_nhkworldpremium_hd.png" group-title="" tvg-id="296" tvg-name="296-NHK-WORLD-PREMIUM-HD", NHK WORLD PREMIUM HD
 rtp://@239.1.1.174:9018
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="297" tvg-name="297-NHK-WORLD-PREMIUM", 297. NHK WORLD PREMIUM
 rtp://@239.1.2.165:8964
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_nickjr.png" group-title="KIDS" tvg-id="298" tvg-name="298-NICK-JR", 298. NICK JR
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_nickjr.png" group-title="KIDS" tvg-id="298" tvg-name="298-NICK-JR", NICK JR
 rtp://@239.1.1.159:8928
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS" tvg-id="299" tvg-name="299-NICK-JR", 299. NICK JR
 rtp://@239.1.2.159:8928
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_nickelodeon.png" group-title="KIDS" tvg-id="300" tvg-name="300-NICKELODEON", 300. NICKELODEON
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_nickelodeon.png" group-title="KIDS" tvg-id="300" tvg-name="300-NICKELODEON", NICKELODEON
 rtp://@239.1.1.41:8220
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS" tvg-id="301" tvg-name="301-NICKELODEON", 301. NICKELODEON
@@ -906,31 +906,31 @@ rtp://@239.1.2.41:8220
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="302" tvg-name="302-NU-CHANNEL", 302. NU CHANNEL
 rtp://@239.1.3.152:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_one.png" group-title="" tvg-id="303" tvg-name="303-ONE", 303. ONE
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_one.png" group-title="" tvg-id="303" tvg-name="303-ONE", ONE
 rtp://@239.1.1.172:9006
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_one_hd.png" group-title="" tvg-id="304" tvg-name="304-ONE-HD", 304. ONE HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_one_hd.png" group-title="" tvg-id="304" tvg-name="304-ONE-HD", ONE HD
 rtp://@239.1.2.21:8100
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_one_hd.png" group-title="" tvg-id="305" tvg-name="305-ONE-HD", 305. ONE HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_one_hd.png" group-title="" tvg-id="305" tvg-name="305-ONE-HD", ONE HD
 rtp://@239.1.2.26:8130
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_pandatv_hd.png" group-title="KNOWLEDGE" tvg-id="306" tvg-name="306-PANDA-TV-HD", 306. PANDA TV HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_pandatv_hd.png" group-title="KNOWLEDGE" tvg-id="306" tvg-name="306-PANDA-TV-HD", PANDA TV HD
 rtp://@239.1.1.208:9502
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_paramountchannel.png" group-title="" tvg-id="307" tvg-name="307-PARAMOUNT-CHANNEL", 307. PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_paramountchannel.png" group-title="" tvg-id="307" tvg-name="307-PARAMOUNT-CHANNEL", PARAMOUNT CHANNEL
 rtp://@239.1.1.11:8040
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_paramountchannel_hd.png" group-title="" tvg-id="308" tvg-name="308-PARAMOUNT-CHANNEL-HD", 308. PARAMOUNT CHANNEL HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_paramountchannel_hd.png" group-title="" tvg-id="308" tvg-name="308-PARAMOUNT-CHANNEL-HD", PARAMOUNT CHANNEL HD
 rtp://@239.1.1.211:9240
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_prambors.png" group-title="MUSIC" tvg-id="309" tvg-name="309-PRAMBORS", 309. PRAMBORS
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_prambors.png" group-title="MUSIC" tvg-id="309" tvg-name="309-PRAMBORS", PRAMBORS
 rtp://@239.1.1.227:9336
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="310" tvg-name="310-R-CHANNEL", 310. R CHANNEL
 rtp://@239.1.2.86:8304
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_rcti_hd.png" group-title="LOCAL" tvg-id="311" tvg-name="311-RCTI-HD", 311. RCTI HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_rcti_hd.png" group-title="LOCAL" tvg-id="311" tvg-name="311-RCTI-HD", RCTI HD
 http://192.168.255.250/6.ts
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="312" tvg-name="312-RED-BY-HBO", 312. RED BY HBO
@@ -939,34 +939,34 @@ rtp://@239.1.1.133:8772
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="313" tvg-name="313-RED-BY-HBO", 313. RED BY HBO
 rtp://@239.1.1.114:8658
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/TVDigital_HD.png" group-title="LOCAL" tvg-id="314" tvg-name="314-RIAU-TV-HD", 314. RIAU TV HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/TVDigital_HD.png" group-title="LOCAL" tvg-id="314" tvg-name="314-RIAU-TV-HD", RIAU TV HD
 http://192.168.255.250/3.ts
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_rockentertaiment.png" group-title="" tvg-id="315" tvg-name="315-ROCK-ENTERTAIMENT", 315. ROCK ENTERTAIMENT
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_rockentertaiment.png" group-title="" tvg-id="315" tvg-name="315-ROCK-ENTERTAIMENT", ROCK ENTERTAIMENT
 rtp://@239.1.1.141:8820
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_rockentertaiment_hd.png" group-title="" tvg-id="316" tvg-name="316-ROCK-ENTERTAIMENT-HD", 316. ROCK ENTERTAIMENT HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_rockentertaiment_hd.png" group-title="" tvg-id="316" tvg-name="316-ROCK-ENTERTAIMENT-HD", ROCK ENTERTAIMENT HD
 rtp://@239.1.2.76:9310
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_rockextreme.png" group-title="" tvg-id="317" tvg-name="317-ROCK-EXTREME", 317. ROCK EXTREME
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_rockextreme.png" group-title="" tvg-id="317" tvg-name="317-ROCK-EXTREME", ROCK EXTREME
 rtp://@239.1.1.134:8778
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_rockextreme_hd.png" group-title="" tvg-id="318" tvg-name="318-ROCK-EXTREME-HD", 318. ROCK EXTREME HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_rockextreme_hd.png" group-title="" tvg-id="318" tvg-name="318-ROCK-EXTREME-HD", ROCK EXTREME HD
 rtp://@239.1.1.112:8646
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_rodjatv.png" group-title="RELIGI" tvg-id="319" tvg-name="319-RODJA-TV", 319. RODJA TV
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_rodjatv.png" group-title="RELIGI" tvg-id="319" tvg-name="319-RODJA-TV", RODJA TV
 rtp://@239.1.1.224:9320
 
 #EXTINF:-1 tvg-logo="" group-title="RELIGI" tvg-id="320" tvg-name="320-RODJA-TV", 320. RODJA TV
 rtp://@239.1.3.36:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_rrinet.png" group-title="LOCAL" tvg-id="321" tvg-name="321-RRI-NET", 321. RRI NET
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_rrinet.png" group-title="LOCAL" tvg-id="321" tvg-name="321-RRI-NET", RRI NET
 rtp://@239.1.2.74:8420
 
 #EXTINF:-1 tvg-logo="" group-title="LOCAL" tvg-id="322" tvg-name="322-RRI-NET", 322. RRI NET
 rtp://@239.1.4.247:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_rtv.png" group-title="LOCAL" tvg-id="323" tvg-name="323-RTV", 323. RTV
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_rtv.png" group-title="LOCAL" tvg-id="323" tvg-name="323-RTV", RTV
 rtp://@239.1.1.69:8388
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="324" tvg-name="324-RTV", 324. RTV
@@ -975,7 +975,7 @@ rtp://@239.1.2.69:8388
 #EXTINF:-1 tvg-logo="" group-title="LOCAL" tvg-id="325" tvg-name="325-RTV", 325. RTV
 rtp://@239.1.3.69:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_ruangterampil.png" group-title="LOCAL" tvg-id="326" tvg-name="326-RUANG-TERAMPIL", 326. RUANG TERAMPIL
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_ruangterampil.png" group-title="LOCAL" tvg-id="326" tvg-name="326-RUANG-TERAMPIL", RUANG TERAMPIL
 rtp://@239.1.1.126:8730
 
 #EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_ruangterampil.png" group-title="" tvg-id="327" tvg-name="327-RUANG-TERAMPIL", 327. RUANG TERAMPIL
@@ -987,10 +987,10 @@ rtp://@239.1.3.50:1234
 #EXTINF:-1 tvg-logo="" group-title="LOCAL" tvg-id="329" tvg-name="329-RUANG-TERAMPIL", 329. RUANG TERAMPIL
 rtp://@239.1.4.27:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_sctv.png" group-title="LOCAL" tvg-id="330" tvg-name="330-SCTV", 330. SCTV
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_sctv.png" group-title="LOCAL" tvg-id="330" tvg-name="330-SCTV", SCTV
 rtp://@239.1.1.21:8100
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_sctv_hd.png" group-title="LOCAL" tvg-id="331" tvg-name="331-SCTV-HD", 331. SCTV HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_sctv_hd.png" group-title="LOCAL" tvg-id="331" tvg-name="331-SCTV-HD", SCTV HD
 rtp://@239.1.2.58:8324
 
 #EXTINF:-1 tvg-logo="" group-title="LOCAL" tvg-id="332" tvg-name="332-SCTV", 332. SCTV
@@ -999,13 +999,13 @@ rtp://@239.1.3.143:1234
 #EXTINF:-1 tvg-logo="" group-title="LOCAL" tvg-id="333" tvg-name="333-SCTV", 333. SCTV
 rtp://@239.1.3.21:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_seatoday_hd.png" group-title="" tvg-id="334" tvg-name="334-SEA-TODAY-HD", 334. SEA TODAY HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_seatoday_hd.png" group-title="" tvg-id="334" tvg-name="334-SEA-TODAY-HD", SEA TODAY HD
 rtp://@239.1.2.68:8384
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_seatoday_hd.png" group-title="" tvg-id="335" tvg-name="335-SEA-TODAY-HD", 335. SEA TODAY HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_seatoday_hd.png" group-title="" tvg-id="335" tvg-name="335-SEA-TODAY-HD", SEA TODAY HD
 rtp://@239.1.2.70:8396
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_shenzentv_hd.png" group-title="" tvg-id="336" tvg-name="336-SHENZEN-TV-HD", 336. SHENZEN TV HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_shenzentv_hd.png" group-title="" tvg-id="336" tvg-name="336-SHENZEN-TV-HD", SHENZEN TV HD
 rtp://@239.1.1.156:8910
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="337" tvg-name="337-SHOWCASE", 337. SHOWCASE
@@ -1020,7 +1020,7 @@ rtp://@239.1.4.230:1234
 #EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_spacetoon.png" group-title="" tvg-id="340" tvg-name="340-SPACETOON", 340. SPACETOON
 rtp://@239.1.1.254:9338
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_starchinesechannel.png" group-title="" tvg-id="341" tvg-name="341-STAR-CHINESE-CHANNEL", 341. STAR CHINESE CHANNEL
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_starchinesechannel.png" group-title="" tvg-id="341" tvg-name="341-STAR-CHINESE-CHANNEL", STAR CHINESE CHANNEL
 rtp://@239.1.1.153:8892
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="342" tvg-name="342-STAR-CHINESE-CHANNEL", 342. STAR CHINESE CHANNEL
@@ -1029,13 +1029,13 @@ rtp://@239.1.2.153:8892
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="343" tvg-name="343-STAR-CHINESE-MOVIE-LEGEND", 343. STAR CHINESE MOVIE LEGEND
 rtp://@239.1.2.151:8880
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_starchinesemovies.png" group-title="" tvg-id="344" tvg-name="344-STAR-CHINESE-MOVIES", 344. STAR CHINESE MOVIES
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_starchinesemovies.png" group-title="" tvg-id="344" tvg-name="344-STAR-CHINESE-MOVIES", STAR CHINESE MOVIES
 rtp://@239.1.1.131:8760
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="345" tvg-name="345-STAR-CHINESE-MOVIES", 345. STAR CHINESE MOVIES
 rtp://@239.1.2.131:8760
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_starchinesemovies_hd.png" group-title="" tvg-id="346" tvg-name="346-STAR-CHINESE-MOVIES-HD", 346. STAR CHINESE MOVIES HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_starchinesemovies_hd.png" group-title="" tvg-id="346" tvg-name="346-STAR-CHINESE-MOVIES-HD", STAR CHINESE MOVIES HD
 rtp://@239.1.2.231:9336
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="347" tvg-name="347-STAR-WORLD", 347. STAR WORLD
@@ -1053,40 +1053,40 @@ rtp://@239.1.2.163:8952
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="351" tvg-name="351-TAHAN-TAWA", 351. TAHAN TAWA
 rtp://@239.1.1.231:9362
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tawaftv.png" group-title="RELIGI" tvg-id="352" tvg-name="352-TAWAF-TV", 352. TAWAF TV
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tawaftv.png" group-title="RELIGI" tvg-id="352" tvg-name="352-TAWAF-TV", TAWAF TV
 rtp://@239.1.2.236:9366
 
 #EXTINF:-1 tvg-logo="" group-title="RELIGI" tvg-id="353" tvg-name="353-TAWAF-TV", 353. TAWAF TV
 rtp://@239.1.3.246:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_techstorm.png" group-title="KNOWLEDGE" tvg-id="354" tvg-name="354-TECH-STORM", 354. TECH STORM
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_techstorm.png" group-title="KNOWLEDGE" tvg-id="354" tvg-name="354-TECH-STORM", TECH STORM
 rtp://@239.1.1.67:8376
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_techstorm_hd.png" group-title="KNOWLEDGE" tvg-id="355" tvg-name="355-TECH-STORM-HD", 355. TECH STORM HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_techstorm_hd.png" group-title="KNOWLEDGE" tvg-id="355" tvg-name="355-TECH-STORM-HD", TECH STORM HD
 rtp://@239.1.2.229:9330
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_telkomgrouptv_hd.png" group-title="" tvg-id="356" tvg-name="356-TELKOM-GROUP-TV-HD", 356. TELKOM GROUP TV HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_telkomgrouptv_hd.png" group-title="" tvg-id="356" tvg-name="356-TELKOM-GROUP-TV-HD", TELKOM GROUP TV HD
 rtp://@239.1.2.14:8058
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_thrill.png" group-title="" tvg-id="357" tvg-name="357-THRILL", 357. THRILL
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_thrill.png" group-title="" tvg-id="357" tvg-name="357-THRILL", THRILL
 rtp://@239.1.1.83:8472
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="358" tvg-name="358-THRILL", 358. THRILL
 rtp://@239.1.2.83:8472
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tlc.png" group-title="" tvg-id="359" tvg-name="359-TLC", 359. TLC
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tlc.png" group-title="" tvg-id="359" tvg-name="359-TLC", TLC
 rtp://@239.1.1.173:9012
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tlc_hd.png" group-title="" tvg-id="360" tvg-name="360-TLC-HD", 360. TLC HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tlc_hd.png" group-title="" tvg-id="360" tvg-name="360-TLC-HD", TLC HD
 rtp://@239.1.2.235:9342
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="361" tvg-name="361-TOONAMI", 361. TOONAMI
 rtp://@239.1.2.143:8832
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_trans7.png" group-title="LOCAL" tvg-id="362" tvg-name="362-TRANS-7", 362. TRANS 7
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_trans7.png" group-title="LOCAL" tvg-id="362" tvg-name="362-TRANS-7", TRANS 7
 rtp://@239.1.1.29:8148
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_trans7_hd.png" group-title="LOCAL" tvg-id="363" tvg-name="363-TRANS-7-HD", 363. TRANS 7 HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_trans7_hd.png" group-title="LOCAL" tvg-id="363" tvg-name="363-TRANS-7-HD", TRANS 7 HD
 rtp://@239.1.1.222:9306
 
 #EXTINF:-1 tvg-logo="" group-title="LOCAL" tvg-id="364" tvg-name="364-TRANS-7", 364. TRANS 7
@@ -1098,10 +1098,10 @@ rtp://@239.1.3.29:1234
 #EXTINF:-1 tvg-logo="" group-title="LOCAL" tvg-id="366" tvg-name="366-TRANS-7", 366. TRANS 7
 rtp://@239.1.4.19:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_transtv.png" group-title="LOCAL" tvg-id="367" tvg-name="367-TRANS-TV", 367. TRANS TV
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_transtv.png" group-title="LOCAL" tvg-id="367" tvg-name="367-TRANS-TV", TRANS TV
 rtp://@239.1.1.27:8136
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_transtv_hd.png" group-title="LOCAL" tvg-id="368" tvg-name="368-TRANS-TV-HD", 368. TRANS TV HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_transtv_hd.png" group-title="LOCAL" tvg-id="368" tvg-name="368-TRANS-TV-HD", TRANS TV HD
 rtp://@239.1.1.194:9138
 
 #EXTINF:-1 tvg-logo="" group-title="LOCAL" tvg-id="369" tvg-name="369-TRANS-TV", 369. TRANS TV
@@ -1113,16 +1113,16 @@ rtp://@239.1.3.27:1234
 #EXTINF:-1 tvg-logo="" group-title="LOCAL" tvg-id="371" tvg-name="371-TRANS-TV", 371. TRANS TV
 rtp://@239.1.4.20:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_trtworld.png" group-title="" tvg-id="372" tvg-name="372-TRT-WORLD", 372. TRT WORLD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_trtworld.png" group-title="" tvg-id="372" tvg-name="372-TRT-WORLD", TRT WORLD
 rtp://@239.1.2.84:8296
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tv9.png" group-title="RELIGI" tvg-id="373" tvg-name="373-TV-9", 373. TV 9
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tv9.png" group-title="RELIGI" tvg-id="373" tvg-name="373-TV-9", TV 9
 rtp://@239.1.1.150:8874
 
 #EXTINF:-1 tvg-logo="" group-title="RELIGI" tvg-id="374" tvg-name="374-TV-9", 374. TV 9
 rtp://@239.1.3.158:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tvedukasi.png" group-title="LOCAL" tvg-id="375" tvg-name="375-TV-EDUKASI", 375. TV EDUKASI
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tvedukasi.png" group-title="LOCAL" tvg-id="375" tvg-name="375-TV-EDUKASI", TV EDUKASI
 rtp://@239.1.1.39:8208
 
 #EXTINF:-1 tvg-logo="" group-title="LOCAL" tvg-id="376" tvg-name="376-TV-EDUKASI", 376. TV EDUKASI
@@ -1131,19 +1131,19 @@ rtp://@239.1.2.39:8208
 #EXTINF:-1 tvg-logo="" group-title="LOCAL" tvg-id="377" tvg-name="377-TV-EDUKASI", 377. TV EDUKASI
 rtp://@239.1.3.39:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tvmu.png" group-title="RELIGI" tvg-id="378" tvg-name="378-TV-MU", 378. TV MU
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tvmu.png" group-title="RELIGI" tvg-id="378" tvg-name="378-TV-MU", TV MU
 rtp://@239.1.1.170:8994
 
 #EXTINF:-1 tvg-logo="" group-title="RELIGI" tvg-id="379" tvg-name="379-TV-MU", 379. TV MU
 rtp://@239.1.3.204:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tvmui.png" group-title="RELIGI" tvg-id="380" tvg-name="380-TV-MUI", 380. TV MUI
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tvmui.png" group-title="RELIGI" tvg-id="380" tvg-name="380-TV-MUI", TV MUI
 rtp://@239.1.2.52:8286
 
 #EXTINF:-1 tvg-logo="" group-title="RELIGI" tvg-id="381" tvg-name="381-TV-MUI", 381. TV MUI
 rtp://@239.1.3.245:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tvone.png" group-title="LOCAL" tvg-id="382" tvg-name="382-TV-ONE", 382. TV ONE
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tvone.png" group-title="LOCAL" tvg-id="382" tvg-name="382-TV-ONE", TV ONE
 rtp://@239.1.1.31:8160
 
 #EXTINF:-1 tvg-logo="" group-title="LOCAL" tvg-id="383" tvg-name="383-TV-ONE", 383. TV ONE
@@ -1152,22 +1152,22 @@ rtp://@239.1.2.31:8160
 #EXTINF:-1 tvg-logo="" group-title="LOCAL" tvg-id="384" tvg-name="384-TV-ONE", 384. TV ONE
 rtp://@239.1.3.31:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tv5monde.png" group-title="" tvg-id="385" tvg-name="385-TV5-MONDE", 385. TV5 MONDE
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tv5monde.png" group-title="" tvg-id="385" tvg-name="385-TV5-MONDE", TV5 MONDE
 rtp://@239.1.1.55:8300
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tvbsnews.png" group-title="NEWS" tvg-id="386" tvg-name="386-TVBS-NEWS", 386. TVBS NEWS
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tvbsnews.png" group-title="NEWS" tvg-id="386" tvg-name="386-TVBS-NEWS", TVBS NEWS
 rtp://@239.1.2.118:9410
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tvn.png" group-title="" tvg-id="387" tvg-name="387-TVN", 387. TVN
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tvn.png" group-title="" tvg-id="387" tvg-name="387-TVN", TVN
 rtp://@239.1.1.135:8784
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tvn_hd.png" group-title="" tvg-id="388" tvg-name="388-TVN-HD", 388. TVN HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tvn_hd.png" group-title="" tvg-id="388" tvg-name="388-TVN-HD", TVN HD
 rtp://@239.1.2.211:9202
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tvnmovies.png" group-title="" tvg-id="389" tvg-name="389-TVN-MOVIES", 389. TVN MOVIES
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tvnmovies.png" group-title="" tvg-id="389" tvg-name="389-TVN-MOVIES", TVN MOVIES
 rtp://@239.1.1.61:8340
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tvnmovies_hd.png" group-title="" tvg-id="390" tvg-name="390-TVN-MOVIES-HD", 390. TVN MOVIES HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tvnmovies_hd.png" group-title="" tvg-id="390" tvg-name="390-TVN-MOVIES-HD", TVN MOVIES HD
 rtp://@239.1.2.72:8408
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="391" tvg-name="391-TVN-MOVIES", 391. TVN MOVIES
@@ -1176,7 +1176,7 @@ rtp://@239.1.3.61:1234
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="392" tvg-name="392-TVN-MOVIES", 392. TVN MOVIES
 rtp://@239.1.4.59:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tvri.png" group-title="LOCAL" tvg-id="393" tvg-name="393-TVRI", 393. TVRI
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tvri.png" group-title="LOCAL" tvg-id="393" tvg-name="393-TVRI", TVRI
 rtp://@239.1.1.37:8196
 
 #EXTINF:-1 tvg-logo="" group-title="LOCAL" tvg-id="394" tvg-name="394-TVRI", 394. TVRI
@@ -1185,13 +1185,13 @@ rtp://@239.1.2.37:8196
 #EXTINF:-1 tvg-logo="" group-title="LOCAL" tvg-id="395" tvg-name="395-TVRI", 395. TVRI
 rtp://@239.1.3.37:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tvri.png" group-title="LOCAL" tvg-id="396" tvg-name="396-TVRI-RIAU-HD", 396. TVRI RIAU HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tvri.png" group-title="LOCAL" tvg-id="396" tvg-name="396-TVRI-RIAU-HD", TVRI RIAU HD
 http://192.168.255.250/4.ts
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tvri.png" group-title="SPORT" tvg-id="397" tvg-name="397-TVRI-SPORT-HD", 397. TVRI SPORT HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tvri.png" group-title="SPORT" tvg-id="397" tvg-name="397-TVRI-SPORT-HD", TVRI SPORT HD
 http://192.168.255.250/5.ts
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_uchannel.png" group-title="RELIGI" tvg-id="398" tvg-name="398-U-CHANNEL", 398. U CHANNEL
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_uchannel.png" group-title="RELIGI" tvg-id="398" tvg-name="398-U-CHANNEL", U CHANNEL
 rtp://@239.1.1.220:9522
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="399" tvg-name="399-UNIVERSAL", 399. UNIVERSAL
@@ -1203,13 +1203,13 @@ rtp://@239.1.1.110:8634
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="401" tvg-name="401-USEE-INFO", 401. USEE INFO
 rtp://@239.1.2.233:9372
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_useemozaik.png" group-title="" tvg-id="402" tvg-name="402-USEE-MOZAIK", 402. USEE MOZAIK
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_useemozaik.png" group-title="" tvg-id="402" tvg-name="402-USEE-MOZAIK", USEE MOZAIK
 rtp://@239.1.2.223:9268
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="403" tvg-name="403-USEE-MOZAIK", 403. USEE MOZAIK
 rtp://@239.1.3.202:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_useephoto.png" group-title="" tvg-id="404" tvg-name="404-USEE-PHOTO", 404. USEE PHOTO
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_useephoto.png" group-title="" tvg-id="404" tvg-name="404-USEE-PHOTO", USEE PHOTO
 rtp://@239.1.1.251:9498
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="405" tvg-name="405-USEE-PHOTO", 405. USEE PHOTO
@@ -1224,7 +1224,7 @@ rtp://@239.1.4.29:1234
 #EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_useeprime.png" group-title="" tvg-id="408" tvg-name="408-USEE-PRIME", 408. USEE PRIME
 rtp://@239.1.1.252:9486
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_useeprime.png" group-title="" tvg-id="409" tvg-name="409-USEE-PRIME", 409. USEE PRIME
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_useeprime.png" group-title="" tvg-id="409" tvg-name="409-USEE-PRIME", USEE PRIME
 rtp://@239.1.1.216:9270
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="410" tvg-name="410-USEE-PRIME", 410. USEE PRIME
@@ -1233,7 +1233,7 @@ rtp://@239.1.3.25:1234
 #EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_useesports.png" group-title="SPORT" tvg-id="411" tvg-name="411-USEE-SPORTS", 411. USEE SPORTS
 rtp://@239.1.2.203:9180
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_useesports.png" group-title="SPORT" tvg-id="412" tvg-name="412-USEE-SPORTS", 412. USEE SPORTS
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_useesports.png" group-title="SPORT" tvg-id="412" tvg-name="412-USEE-SPORTS", USEE SPORTS
 rtp://@239.1.1.101:8580
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT" tvg-id="413" tvg-name="413-USEE-SPORTS", 413. USEE SPORTS
@@ -1254,13 +1254,13 @@ rtp://@239.1.3.140:1234
 #EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_useesports2.png" group-title="SPORT" tvg-id="418" tvg-name="418-USEE-SPORTS-2", 418. USEE SPORTS 2
 rtp://@239.1.2.205:9186
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_useesports2.png" group-title="SPORT" tvg-id="419" tvg-name="419-USEE-SPORTS-2", 419. USEE SPORTS 2
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_useesports2.png" group-title="SPORT" tvg-id="419" tvg-name="419-USEE-SPORTS-2", USEE SPORTS 2
 rtp://@239.1.1.53:8292
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT" tvg-id="420" tvg-name="420-USEE-SPORTS-2", 420. USEE SPORTS 2
 rtp://@239.1.2.215:9220
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_useetoday_hd.png" group-title="" tvg-id="421" tvg-name="421-USEE-TODAY-HD", 421. USEE TODAY HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_useetoday_hd.png" group-title="" tvg-id="421" tvg-name="421-USEE-TODAY-HD", USEE TODAY HD
 rtp://@239.1.2.50:8274
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="422" tvg-name="422-USEE-TODAY", 422. USEE TODAY
@@ -1281,10 +1281,10 @@ rtp://@239.1.1.75:8424
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="427" tvg-name="427-WAKU-WAKU-JAPAN", 427. WAKU WAKU JAPAN
 rtp://@239.1.2.75:8424
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_warnertv.png" group-title="" tvg-id="428" tvg-name="428-WARNER-TV", 428. WARNER TV
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_warnertv.png" group-title="" tvg-id="428" tvg-name="428-WARNER-TV", WARNER TV
 rtp://@239.1.2.9:8028
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_warnertv_hd.png" group-title="" tvg-id="429" tvg-name="429-WARNER-TV-HD", 429. WARNER TV HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_warnertv_hd.png" group-title="" tvg-id="429" tvg-name="429-WARNER-TV-HD", WARNER TV HD
 rtp://@239.1.2.244:9078
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="430" tvg-name="430-WARNER-TV", 430. WARNER TV
@@ -1293,7 +1293,7 @@ rtp://@239.1.3.9:1234
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="431" tvg-name="431-WARNER-TV", 431. WARNER TV
 rtp://@239.1.4.60:1234
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_zeebioskop.png" group-title="" tvg-id="432" tvg-name="432-ZEE-BIOSKOP", 432. ZEE BIOSKOP
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_zeebioskop.png" group-title="" tvg-id="432" tvg-name="432-ZEE-BIOSKOP", ZEE BIOSKOP
 rtp://@239.1.1.129:8748
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="433" tvg-name="433-ZEE-BIOSKOP", 433. ZEE BIOSKOP
@@ -1302,5 +1302,5 @@ rtp://@239.1.2.129:8748
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="434" tvg-name="434-ZEE-HIBURAN", 434. ZEE HIBURAN
 rtp://@239.1.1.109:8628
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_zhenjiang_hd.png" group-title="" tvg-id="435" tvg-name="435-ZHENJIANG-HD", 435. ZHENJIANG HD
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_zhenjiang_hd.png" group-title="" tvg-id="435" tvg-name="435-ZHENJIANG-HD", ZHENJIANG HD
 rtp://@239.1.1.154:8898
