@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/TVDigital_HD.png", Media Informasi
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital_HD.png", Media Informasi
 http://192.168.255.250/ranar.ts
